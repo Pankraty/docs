@@ -15,7 +15,7 @@ _{{ ydb-short-name }}_ is a horizontally scalable distributed fault tolerant DBM
 * High availability with automatic failover in case a server, rack, or availability zone goes offline.
 * Automatic data partitioning as data or load grows.
 
-To interact with {{ ydb-short-name }}, you can use the [{{ ydb-short-name }} CLI](../../../reference/ydb-cli/index.md) or [SDK](../../../reference/ydb-sdk/index.md) for  Java, Python, Node.js, PHP, and Go.
+To interact with {{ ydb-short-name }}, you can use the [{{ ydb-short-name }} CLI](../../../reference/ydb-cli/index.md) or [SDK](../../../reference/ydb-sdk/index.md) for  Java, Python, Node.js, PHP, Go, and C#.
 
 {{ ydb-short-name }} supports a relational [data model](../../../concepts/datamodel.md) and manages tables with a predefined schema. To make it easier to organize tables, directories can be created like in the file system.
 
